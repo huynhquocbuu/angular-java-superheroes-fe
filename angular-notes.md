@@ -17,4 +17,5 @@ ng g c anti-hero/components/anti-hero-command-bar
 ng add @angular/material
 
 ng g m material
+ng g m auth
 ```
