@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'superheroes-frontend';
+  isDisabled = true;
+
+  model = 'seiji';
 }
